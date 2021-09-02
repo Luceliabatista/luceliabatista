@@ -1,8 +1,8 @@
 Oláá! Eu sou a Lucélia Batista
 
 - 🔭 Estou em transição de carreira, migrando para a área de Desenvolvimento Front-end
-- 🌱 Estudo HTML5, CSS, Javascript, TypeScript e React
-- 📫 How to reach me: lucelia.dev@gmail.com
+- 🌱 Estudo Javascript, HTML5, CSS, TypeScript e React
+- 📫 Contato: lucelia.dev@gmail.com
 - 😄 Pronomes: Ela/Dela
 
 <div>
@@ -16,7 +16,7 @@ Oláá! Eu sou a Lucélia Batista
   <img align="center" alt="Lu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lu-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+ 
 </div>
 
   ##
