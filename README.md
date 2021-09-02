@@ -1,6 +1,6 @@
 Oláá! Eu sou a Lucélia Batista
 
-- 🔭 Estou em transição de carreira, migrando da área SAP para a área de Desenvolvimento Front-end
+- 🔭 Estou em transição de carreira, migrando para a área de Desenvolvimento Front-end
 - 🌱 Estudo HTML5, CSS, Javascript, TypeScript e React
 - 📫 How to reach me: lucelia.dev@gmail.com
 - 😄 Pronomes: Ela/Dela
