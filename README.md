@@ -1,4 +1,4 @@
-Oláá! Eu sou a Lucélia Batista
+Oláá! Eu sou a Lucélia Batista.
 
 ##
 
