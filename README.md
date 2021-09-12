@@ -2,8 +2,8 @@ Oláá! Eu sou a Lucélia Batista.
 
 ##
 
-- 🔭 Desenvolvimento Front-end.
-- 🌱 Atualmente estou estudando Javascript, HTML5, CSS, TypeScript e React.
+- 🔭 Estudante de Desenvolvimento Front-end.
+- 🌱 Javascript, HTML5, CSS, TypeScript e React.
 - 📫 Contato: lucelia.dev@gmail.com.
 - 😄 Pronomes: Ela/Dela.
 
