@@ -1,4 +1,5 @@
-Olá! Me chamo Lucélia Batista, e é um prazer enorme te receber aqui onde você poderá encontra meu portfólio de códigos.
+Olá!
+Me chamo Lucélia Batista, e é um prazer enorme te receber aqui onde você poderá encontra meu portfólio de códigos.
 
 ##
 
