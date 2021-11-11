@@ -2,7 +2,7 @@ Olá! Me chamo Lucélia Batista, e é um prazer enorme te receber aqui onde voc�
 
 ##
 
-- 👩‍💻 Atualmente sou estudante de Web Full Stack, na SoulCode Academy, onde estou me desenvolvendo nas linguagens:
+- 👩‍💻 Atualmente sou estudante de Web Full Stack na SoulCode Academy, onde estou me desenvolvendo nas linguagens:
 
   ✨ Front-End: HTML5, CSS3, Javascript, Bootstrap, jQuery, Angular, Vue e React.
 
