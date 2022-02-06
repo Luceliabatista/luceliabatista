@@ -5,13 +5,13 @@ Me chamo Lucélia Batista, e é um prazer enorme te receber aqui onde você pode
 
 - 👩‍💻 Atualmente sou estudante de Web Full Stack na SoulCode Academy, onde estou me desenvolvendo em:
 
-  ✨ Front-End: HTML5, CSS3, Javascript, Bootstrap, jQuery, Angular, Vue e React
+  ✨ Front-End: HTML5, CSS3, Javascript, Bootstrap, jQuery, Angular 9.
 
   💻 Back-End: NodeJS
 
   📈 Database: SQL, No-SQL
 
-  ⚙️ Gestão: Métodos Ágeis
+  ⚙️ Gestão: DevOps
 <br />
 
 - 📫 Contato: lucelia.dev@gmail.com
