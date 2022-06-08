@@ -6,7 +6,7 @@ Me chamo Lucélia Batista, e é um prazer enorme te receber aqui onde você pode
 - 👩‍💻 Atualmente estou em transição de carreira para a área de desenvolvimento.
 - 👩‍💻 Formada em um bootcamp de Web Full Stack na SoulCode Academy, onde me desenvolvi em:
 
-  ✨ Front-End: HTML5, CSS3,Sass, Javascript, Bootstrap 5, jQuery, Angular 12.
+  ✨ Front-End: HTML5, CSS3, Sass, Javascript, Bootstrap 5, jQuery, Angular 12.
 
   💻 Back-End: NodeJS, Mongoose.
 
