@@ -1,16 +1,16 @@
 Olá!<br>
-Me chamo Lucélia Batista, e é um prazer enorme te receber aqui onde você poderá encontra meu portfólio de códigos.
+Me chamo Lucélia Batista, e é um prazer te receber aqui, onde você poderá encontra meu portfólio de códigos.
 
 ##
 
-- 👩‍💻 Atualmente busco uma oportunidade como Deenvolvedora Front-end ReactJS e/ou Angular+2.
+- 👩‍💻 Atualmente busco uma oportunidade como Desenvolvedora Front-end React e/ou Angular+2.
 
 
   ✨ Front-End: HTML5, CSS3, Sass, Javascript, Tailwind, Bootstrap 5, jQuery, React, Angular 12.
 
   💻 Back-End: NodeJS, Mongoose.
 
-  📈 Database: SQL, No-SQL, GraphQL, MondoDB e Firebase.
+  📈 Database: SQL, No-SQL, GraphQL, GraphCMS, MondoDB e Firebase.
 
   ⚙️ Gestão: DevOps, SCRUM e Kanban
 <br />
