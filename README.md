@@ -3,14 +3,14 @@ Me chamo Lucélia Batista, e é um prazer enorme te receber aqui onde você pode
 
 ##
 
-- 👩‍💻 Atualmente estou em transição de carreira para a área de desenvolvimento.
-- 👩‍💻 Formada em um bootcamp de Web Full Stack na SoulCode Academy, onde me desenvolvi em:
+- 👩‍💻 Atualmente busco uma oportunidade como Deenvolvedora Front-end ReactJS e/ou Angular+2.
 
-  ✨ Front-End: HTML5, CSS3, Sass, Javascript, Bootstrap 5, jQuery, Angular 12.
+
+  ✨ Front-End: HTML5, CSS3, Sass, Javascript, Tailwind, Bootstrap 5, jQuery, React, Angular 12.
 
   💻 Back-End: NodeJS, Mongoose.
 
-  📈 Database: SQL, No-SQL, MondoDB e Firebase.
+  📈 Database: SQL, No-SQL, GraphQL, MondoDB e Firebase.
 
   ⚙️ Gestão: DevOps, SCRUM e Kanban
 <br />
@@ -24,14 +24,13 @@ Me chamo Lucélia Batista, e é um prazer enorme te receber aqui onde você pode
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luceliabatista&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lu-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Lu-Jquery" height="30" width="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg">
   <img align="center" alt="Lu-Angular" height="41" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
-  <img align="center" alt="Lu-Vue" height="27" width="38" src="https://br.vuejs.org/images/logo.svg">
-  <img align="center" alt="Lu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lu-Nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="Lu-SQL" height="35" width="35" src="https://www.ricardoarrigoni.com/wp-content/uploads/2014/01/SQL.png">
   
