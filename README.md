@@ -32,7 +32,6 @@ Me chamo Lucélia Batista, e é um prazer te receber aqui, onde você poderá en
   <img align="center" alt="Lu-Jquery" height="30" width="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg">
   <img align="center" alt="Lu-Angular" height="41" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
   <img align="center" alt="Lu-Nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="Lu-SQL" height="35" width="35" src="https://www.ricardoarrigoni.com/wp-content/uploads/2014/01/SQL.png">
   
  
 </div>
