@@ -3,16 +3,16 @@ Me chamo Lucélia Batista, e é um prazer te receber aqui, onde você poderá en
 
 ##
 
-- 👩‍💻 Atualmente busco uma oportunidade como <strong>Desenvolvedora Front-end React e/ou Angular+2</strong>.
+- 👩‍💻 Atualmente busco uma oportunidade como <strong>Desenvolvedora Front-end React Júnior</strong>.
 
 
   ✨ Front-End: HTML5, CSS3, Sass, Javascript, Tailwind, Bootstrap 5, jQuery, React, Angular 12.
 
-  💻 Back-End: NodeJS, Mongoose.
+  💻 Back-End: NodeJS, C#, Mongoose.
 
   📈 Database: SQL, No-SQL, GraphQL, GraphCMS, MondoDB e Firebase.
 
-  ⚙️ Gestão: DevOps, SCRUM e Kanban
+  ⚙️ Gestão: DevOps, SCRUM e Kanban.
 <br />
 
 - 📫 Contato: lucelia.dev@gmail.com
