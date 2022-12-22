@@ -6,7 +6,7 @@ Me chamo Lucélia Batista, e é um prazer te receber aqui, onde você poderá en
 - 👩‍💻 Atualmente busco uma oportunidade como <strong>Desenvolvedora Júnior</strong>.
 
 
-  ✨ Front-End: HTML5, CSS3, Sass, Javascript, Tailwind, Bootstrap 5, jQuery, React, Angular 12.
+  ✨ Front-End: HTML5, CSS3, Sass, Javascript, TypeScript, Tailwind, Bootstrap 5, jQuery, React, Angular 12.
 
   💻 Back-End: NodeJS, C#, Mongoose.
 
