@@ -10,7 +10,7 @@ Me chamo Lucélia Batista, e é um prazer te receber aqui, onde você poderá en
 
   💻 Back-End: NodeJS, C#, Mongoose.
 
-  📈 Database: SQL, No-SQL, GraphQL, GraphCMS, MondoDB e Firebase.
+  📈 Database: SQL, No-SQL, GraphQL, GraphCMS, MongoDB e Firebase.
 
   ⚙️ Gestão: DevOps, SCRUM e Kanban.
 <br />
