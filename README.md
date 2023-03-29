@@ -1,10 +1,9 @@
 Olá!<br>
-Me chamo Lucélia Batista, e é um prazer te receber aqui, onde você poderá encontra meu portfólio de códigos.
+Me chamo Lucélia Batista, e é um prazer te receber aqui.   👩‍💻
 
-##
 
-- 👩‍💻 Atualmente busco uma oportunidade como <strong>Desenvolvedora Júnior</strong>.
-
+#
+Aqui você irá ver meus projetos de estudos, utilizando:
 
   ✨ Front-End: HTML5, CSS3, Sass, Javascript, TypeScript, Tailwind, Bootstrap 5, jQuery, React, Angular 12.
 
@@ -17,6 +16,8 @@ Me chamo Lucélia Batista, e é um prazer te receber aqui, onde você poderá en
 
 - 📫 Contato: lucelia.dev@gmail.com
 - 😄 Pronomes: Ela/Dela
+
+#
 
 <div>
   <a href="https://github.com/Luceliabatista">
